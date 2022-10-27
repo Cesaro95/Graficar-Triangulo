@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graficar Triangulo", "Graficar Triangulo\Graficar Triangulo.csproj", "{A51DEDE9-F3EA-4D9C-963D-0C0F45D93F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51DEDE9-F3EA-4D9C-963D-0C0F45D93F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51DEDE9-F3EA-4D9C-963D-0C0F45D93F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51DEDE9-F3EA-4D9C-963D-0C0F45D93F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51DEDE9-F3EA-4D9C-963D-0C0F45D93F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5ACCE27-1156-436A-8260-91B661B66173}
+	EndGlobalSection
+EndGlobal
